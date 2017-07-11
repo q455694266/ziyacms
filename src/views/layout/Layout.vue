@@ -66,7 +66,7 @@
 </template>
 <script>
 import { mapGetters } from 'vuex';
-import leftNav from './LeftNav'
+import leftNav from './leftNav'
 export default {
   // name: 'systemMain',
   data() {
